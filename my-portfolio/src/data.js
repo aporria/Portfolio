@@ -25,7 +25,7 @@ export const projects = [
   },
   {
     title: "Portfolio",
-    subtitle: "React and Python",
+    subtitle: "React",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-4.gif",
