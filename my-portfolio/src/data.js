@@ -3,25 +3,25 @@ export const projects = [
     title: "FitBuddy",
     subtitle: "Dart and Firebase",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "A simple fitness app with three core features: a routine planner, stopwatch, and a random exercise selector.",
+    image: "./fitbuddy.gif",
+    link: "https://justingyatco.wixsite.com/fitbuddy",
   },
   {
     title: "Malice",
     subtitle: "C# and Unity3D",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "An immersive, first-person horror experience in which you must escape from an abandoned mental asylum whilst evading the dangers that lurk the halls, as you slowly descend into madness.",
+    image: "./malice.gif",
+    link: "https://github.com/aporria/Malice",
   },
   {
     title: "Calorie Tracker Web Service",
     subtitle: "Python and React",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    image: "./calorietracker.gif",
+    link: "https://github.com/aporria/Calorie-Tracker",
   },
   {
     title: "Portfolio",
