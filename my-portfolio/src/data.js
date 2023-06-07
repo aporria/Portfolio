@@ -11,7 +11,7 @@ export const projects = [
     title: "Malice",
     subtitle: "C# and Unity3D",
     description:
-      "An immersive, first-person horror experience in which you must escape from an abandoned mental asylum whilst evading the dangers that lurk the halls, as you slowly descend into madness.",
+      "An immersive, first-person horror experience in which you must escape from an abandoned mental asylum as you slowly descend into madness.",
     image: "./malice.gif",
     link: "https://github.com/aporria/Malice",
   },
@@ -19,7 +19,7 @@ export const projects = [
     title: "Calorie Tracker Web Service",
     subtitle: "Python and React",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A web service that tracks your daily caloric intake, as well as macros such as protein, carbohydrates, and fats in user-friendly graphs.",
     image: "./calorietracker.gif",
     link: "https://github.com/aporria/Calorie-Tracker",
   },
@@ -27,9 +27,9 @@ export const projects = [
     title: "Portfolio",
     subtitle: "React",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "My personal portfolio. Includes a personal statement, various projects I've done, contact details, and skills/technologies I've learned.",
+    image: "./portfoliocode.gif",
+    link: "https://github.com/aporria/Portfolio",
   },
 ];
 
@@ -51,10 +51,12 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript",
+  "Java",
   "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "Python",
+  "C/C#",
+  "Unity3D",
+  "Dart",
+  "Flutter",
+  "VSCode",
 ];
