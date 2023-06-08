@@ -8,8 +8,11 @@ export default function Socials() {
       <div className="container px-5 py-10 mx-auto text-center">
         <UsersIcon className="w-10 inline-block mb-4" />
         <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-12">
-          Contact Information/Socials 
+          Socials 
         </h1>
+        <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
+          
+        </div>
         <div className="flex flex-wrap m-4">
           {testimonials.map((testimonial) => (
             <div className="p-4 md:w-1/2 w-full">

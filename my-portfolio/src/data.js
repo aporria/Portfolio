@@ -60,3 +60,10 @@ export const skills = [
   "Flutter",
   "VSCode",
 ];
+
+export const socials = [
+  {
+    icon: "",
+    link: "@justinyatco https://www.instagram.com/justinyatco/",
+  }
+];
