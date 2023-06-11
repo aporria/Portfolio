@@ -25,7 +25,7 @@ export default function About() {
                     </a>
                 </div>
             </div>
-            <div className="container mx-auto flex px-10 pt-5 md:flex-row flex-col items-center">
+            <div className="container mx-auto flex px-10 py-5 md:flex-row flex-col items-center">
                 <p className="mb-8 leading-relaxed">
                     I graduated in December of 2022 with cum laude honors. I love to create projects with a clear vision in mind,
                     where I can utilize my creativity and problem-solving skills to the best of my ability. Adaptive, hard-working, 
@@ -33,11 +33,11 @@ export default function About() {
                     can put forth all my efforts into the tasks at hand. I am willing to relocate.
                 </p>
             </div>
-            <div className="container mx-auto flex px-10 pb-10 items-center">
+            {/* <div className="container mx-auto flex px-10 pb-10 items-center">
                 <a href="./Justin_Yatco_Resume.pdf" target="_blank" className="mb-8 leading relaxed text-indigo-500 hover:text-indigo-400">
                     View resume as PDF
                 </a>
-            </div>
+            </div> */}
             <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
                 <img
                     className="object-cover object-center rounded"

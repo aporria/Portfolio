@@ -20,6 +20,9 @@ export default function Navbar() {
           <a href="#socials" className="mr-5 hover:text-white">
             Socials
           </a>
+          <a href="./Justin_Yatco_Resume.pdf" target="_blank" className="mr-5 hover:text-white">
+            Resume
+          </a>
         </nav>
         <a
           href="#contact"
