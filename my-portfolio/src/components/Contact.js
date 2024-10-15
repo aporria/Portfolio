@@ -38,7 +38,7 @@ export default function Contact() {
             //marginHeight={0}
             //marginWidth={0}
             style={{ filter: "opacity(0.7)" }}
-            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10450.018934220867!2d-119.15482110284664!3d35.37573908175739!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80ea4462dee02c3b%3A0x748b45c961ccd8c4!2s13402%20Nantucket%20Pl%2C%20Bakersfield%2C%20CA%2093314!5e0!3m2!1sen!2sus!4v1685510595311!5m2!1sen!2sus"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6613.677338495306!2d-118.28769192404276!3d34.02235187316837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c7e49c71a5ed%3A0xaa905a5bb427a2c4!2sUniversity%20of%20Southern%20California!5e0!3m2!1sen!2sus!4v1728961551152!5m2!1sen!2sus"
           />
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
             <div className="lg:w-1/2 px-6">
@@ -46,8 +46,7 @@ export default function Contact() {
                 ADDRESS
               </h2>
               <p className="mt-1">
-                13402 Nantucket Pl. <br />
-                Bakersfield, CA 93314
+                Los Angeles, CA 90007
               </p>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
